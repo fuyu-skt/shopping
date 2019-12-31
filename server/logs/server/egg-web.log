@@ -1,0 +1,37 @@
+2019-12-31 00:00:01,063 INFO 13392 [egg-logrotator] app logger reload: got log-reload message
+2019-12-31 04:30:00,035 INFO 13392 [-/127.0.0.1/-/16ms SCHEDULE /__schedule?path=D:\shopping\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "C:\\Users\\Hansem\\AppData\\Local\\Temp\\egg-multipart-tmp\\server"
+2019-12-31 04:30:00,046 INFO 13392 [-/127.0.0.1/-/34ms SCHEDULE /__schedule?path=D:\shopping\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-12-31 17:39:30,750 INFO 8732 [egg:logger] init all loggers with options: {"dir":"D:\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-31 17:39:30,833 INFO 8732 [egg-multipart] stream mode enable
+2019-12-31 17:39:32,008 INFO 8732 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2019-12-31 17:39:33,151 INFO 8732 [egg-static] starting static serve /public/ -> D:\shopping\server\app\public
+2019-12-31 17:39:33,155 INFO 8732 [egg-security] use methodnoallow middleware
+2019-12-31 17:39:33,158 INFO 8732 [egg-security] use noopen middleware
+2019-12-31 17:39:33,165 INFO 8732 [egg-security] use nosniff middleware
+2019-12-31 17:39:33,167 INFO 8732 [egg-security] use xssProtection middleware
+2019-12-31 17:39:33,168 INFO 8732 [egg-security] use xframe middleware
+2019-12-31 17:39:33,173 INFO 8732 [egg-security] use dta middleware
+2019-12-31 17:39:33,173 INFO 8732 [egg-security] compose 6 middlewares into one security middleware
+2019-12-31 17:39:33,258 INFO 8732 [egg:core] dump config after load, 44ms
+2019-12-31 17:39:33,263 INFO 8732 [egg-mongoose] starting...
+2019-12-31 17:39:33,360 INFO 8732 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2019-12-31 17:39:33,385 INFO 8732 [egg-mongoose] instance[0] start successfully
+2019-12-31 17:39:33,388 INFO 8732 [egg-watcher:application] watcher start success
+2019-12-31 17:39:33,409 INFO 8732 [egg:core] dump config after ready, 13ms
+2019-12-31 17:39:38,282 INFO 2960 [egg:logger] init all loggers with options: {"dir":"D:\\shopping\\server\\logs\\server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-31 17:39:38,359 INFO 2960 [egg-multipart] stream mode enable
+2019-12-31 17:39:40,290 INFO 2960 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2019-12-31 17:39:41,883 INFO 2960 [egg-static] starting static serve /public/ -> D:\shopping\server\app\public
+2019-12-31 17:39:41,891 INFO 2960 [egg-security] use methodnoallow middleware
+2019-12-31 17:39:41,893 INFO 2960 [egg-security] use noopen middleware
+2019-12-31 17:39:41,897 INFO 2960 [egg-security] use nosniff middleware
+2019-12-31 17:39:41,899 INFO 2960 [egg-security] use xssProtection middleware
+2019-12-31 17:39:41,901 INFO 2960 [egg-security] use xframe middleware
+2019-12-31 17:39:41,905 INFO 2960 [egg-security] use dta middleware
+2019-12-31 17:39:41,905 INFO 2960 [egg-security] compose 6 middlewares into one security middleware
+2019-12-31 17:39:41,963 INFO 2960 [egg:core] dump config after load, 11ms
+2019-12-31 17:39:41,966 INFO 2960 [egg-mongoose] starting...
+2019-12-31 17:39:42,075 INFO 2960 [egg-watcher:application] watcher start success
+2019-12-31 17:39:42,111 INFO 2960 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2019-12-31 17:39:42,134 INFO 2960 [egg-mongoose] instance[0] start successfully
+2019-12-31 17:39:42,211 INFO 2960 [egg:core] dump config after ready, 50ms
